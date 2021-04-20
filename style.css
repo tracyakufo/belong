@@ -1,0 +1,210 @@
+.navbar {
+    background-color: white;  
+    display: block;
+    margin: auto;
+    padding: 4.3%;
+}
+
+.navbar-nav > li{
+    padding-left:30px;
+    padding-right:30px;
+}
+
+
+.hero-content {
+    display: block;
+    margin: auto;
+    align-items: center;
+    font-family: 'Poppins';
+    
+}
+
+
+.navbar-brand {
+    font-family: 'Poppins';
+}
+
+a {
+    padding: 1.5%;
+    color: #00866F;
+    text-decoration: none;
+    font-family: 'Poppins';
+    font-weight: lighter;
+    vertical-align: middle;
+}
+
+.hero-space {
+    padding: 5%;
+    margin-bottom: 100px;
+}
+.hero-content h1 {
+    font-family: 'Poppins';
+    font-size: 80px;
+    font-weight: normal;
+    color: black;
+    padding-bottom:30px;
+}
+
+.hero-content h2 {
+font-family: 'Poppins';
+ font-size:30px;
+ font-weight:normal;
+ color: #00866F;
+ 
+}
+
+.app-store {
+    padding-top: 50px;
+    margin-bottom: 100px;
+}
+.hero-content h3 {
+    font-family: 'Poppins';
+    font-size:20px;
+    font-weight:normal;
+    color: black;
+    padding-right:15%;
+
+}
+
+.phone {
+    margin-bottom:100px;
+    display: block;
+    margin: auto;
+    
+}
+
+/* preserve-your-history row  */
+
+.preserve-history {
+    background-color: #00866F;
+    padding: 5%;
+    font-family: 'Poppins';
+    padding-bottom: 200px;
+    padding-top: 200px;
+}
+
+.preserve-history h2 {
+    color: white;
+    font-weight:normal;
+    font-family: 'Poppins';
+    font-size:30px;
+    padding-bottom:3%;
+
+}
+
+.preserve-history h3 {
+    color: white;
+    font-weight:200;
+    font-family: 'Poppins';
+    font-size:20px;
+}
+
+.preserve-icon {
+    align-content: center;
+    padding-bottom:50px;
+    padding-top:50px;
+}
+
+.preserve-content {
+    display: block;
+    margin: auto;
+}
+
+.preserve-image {
+    display: block;
+    margin: auto;
+}
+
+
+/* share-your-story row  */
+
+.share-story {
+    background-color: white;
+    padding: 5%;
+    font-family: 'Poppins';
+    padding-bottom: 200px;
+    padding-top: 200px;
+}
+
+.share-story h2 {
+    color:#00866F;
+    font-weight:normal;
+    font-family: 'Poppins';
+    font-size:30px;
+    padding-bottom:3%;
+
+}
+
+.share-story h3 {
+    color: #00866F;
+    font-weight:200;
+    font-family: 'Poppins';
+    font-size:20px;
+}
+
+.share-story-icon {
+    align-content: center;
+    padding-bottom:50px;
+    padding-top:50px;
+    
+}
+
+.share-content {
+    display: block;
+    margin: auto;
+}
+
+.share-image {
+    display: block;
+    margin: auto;
+    margin-top: 100px;
+}
+
+
+/* strengthen-connections row  */
+
+
+.strengthen-connections{
+    background-color: #00866F;
+    padding: 5%;
+    font-family: 'Poppins';
+    padding-bottom: 200px;
+    padding-top: 200px;
+}
+
+.strengthen-connections h2 {
+    color: white;
+    font-weight:normal;
+    font-family: 'Poppins';
+    font-size:30px;
+    padding-bottom:3%;
+
+}
+
+.strengthen-connections h3 {
+    color: white;
+    font-weight:200;
+    font-family: 'Poppins';
+    font-size:20px;
+}
+
+.strengthen-icon {
+    align-content: center;
+    padding-bottom:50px;
+    padding-top:50px;
+}
+
+.strengthen-content {
+    display: block;
+    margin: auto;
+}
+
+.strengthen-image {
+    display: block;
+    margin: auto;
+}
+
+p {
+    display: block;
+    text-align: center;
+}
