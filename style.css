@@ -214,6 +214,35 @@ font-family: 'Poppins';
     margin: auto;
 }
 
+
+/*final-call-2-action*/
+
+.call-2-action {
+    display: block;
+    margin: auto;
+    text-align: center;
+    padding:10%;
+}
+
+.call-2-action h1 {
+    font-family: 'Poppins';
+    font-size: 80px;
+    font-weight: normal;
+    color: black;
+    padding-bottom:30px;
+}
+
+.call-2-action h2 {
+font-family: 'Poppins';
+ font-size:30px;
+ font-weight:normal;
+ color: black;
+}
+
+.myfooter {
+    background-color: #00866F;
+}
+
 p {
     display: block;
     text-align: center;
